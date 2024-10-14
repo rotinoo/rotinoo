@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate IT student with a focus on cloud 
 
 Here are some of the projects I've been working on:
 
-### [InstantSite](https://github.com/rotinoo/instant-site)
-A simple application for easy website deployment on local servers. Part of a larger project aimed at simplifying website sharing.
-
 ### Website Deployment & FTP Tool
 Currently in development, this application will enable instant deployment of websites for FTP purposes, allowing clients to access them via a browser without the need for software installation.
+
+### [InstantSite](https://github.com/rotinoo/instant-site)
+A simple application for easy website deployment on local servers. Part of a larger project aimed at simplifying website sharing.
 
 ### [Personal Bio Website](https://github.com/rotinoo/my-portofolio)
 A personal website showcasing my skills, experience, and projects in IT, with a focus on cloud computing and web development.
