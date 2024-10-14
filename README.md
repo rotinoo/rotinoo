@@ -22,11 +22,11 @@ Currently in development, this application will enable instant deployment of web
 
 ### [Personal Bio Website](https://github.com/rotinoo/my-portofolio)
 A personal website showcasing my skills, experience, and projects in IT, with a focus on cloud computing and web development.
-[Visit my website](rotinoo.github.io/my-portofolio/)
+[Visit my website](rotinoo.github.io/my-portofolio/).
 
 ### Network Configuration Project
 Configured and managed network devices including switches and routers for a university project. Set up and maintained FTP and web servers on Ubuntu Linux, ensuring high availability and security.
-[See my project report](https://bit.ly/Netw_Report)
+[See my project report](https://bit.ly/Netw_Report).
 
 ## 🌱 I’m currently learning
 
