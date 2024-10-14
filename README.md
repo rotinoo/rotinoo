@@ -37,7 +37,7 @@ Configured and managed network devices including switches and routers for a univ
 ## 📫 How to reach me
 
 - **Email**: [robby.agn@gmail.com](mailto:robby.agn@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/robby-agustino)
+- **LinkedIn**: [Robby Agustino](https://linkedin.com/in/robby-agustino)
 - **Instagram**: [@robby.gn](https://instagram.com/robby.gn)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
