@@ -22,7 +22,7 @@ A simple application for easy website deployment on local servers. Part of a lar
 
 ### [Personal Bio Website](https://github.com/rotinoo/my-portofolio)
 A personal website showcasing my skills, experience, and projects in IT, with a focus on cloud computing and web development.
-[Visit my website](rotinoo.github.io/my-portofolio/).
+[Visit my website](https://rotinoo.github.io/my-portofolio/).
 
 ### Network Configuration Project
 Configured and managed network devices including switches and routers for a university project. Set up and maintained FTP and web servers on Ubuntu Linux, ensuring high availability and security.
