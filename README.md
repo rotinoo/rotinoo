@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate IT student with a focus on cloud 
 ## 🔧 Skills
 
 - **Programming Languages**: JavaScript, Python, Java
-- **Web Development**: HTML, CSS, React, Flask
+- **Web Development**: HTML, CSS, React, Flask, Streamlit
 - **Cloud Computing**: Google Cloud Platform, AWS
 - **DevOps**: CI/CD, Docker
 - **Database Management**: MySQL, MongoDB
